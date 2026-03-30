@@ -56,14 +56,6 @@ Final-year Software Engineering student passionate about building scalable backe
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=pthawng&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pthawng.pthawng"/>
 </div>
