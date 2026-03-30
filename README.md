@@ -56,12 +56,6 @@ Final-year Software Engineering student passionate about building scalable backe
 
 ---
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pthawng&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pthawng&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-
-<div align="center"> <img src="https://streak-stats.demolab.com?user=pthawng&theme=tokyonight&hide_border=true"/> </div>
-
----
-
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pthawng.pthawng"/>
 </div>
